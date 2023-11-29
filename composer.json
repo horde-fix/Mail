@@ -30,6 +30,8 @@
         "pear/net_smtp": "^1.6"
     },
     "replace": {
+        "pear-pear.horde.org/Horde_Mail": "2.*",
+        "pear-horde/Horde_Mail": "2.*"
     },
     "autoload": {
         "psr-0": {
