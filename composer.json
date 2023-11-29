@@ -11,7 +11,7 @@
             "role": "lead"
         }
     ],
-    "version": "2.99.0",
+    "version": "2.6.7",
     "time": "2023-11-29",
     "require": {
         "php": "^5.3 || ^7",
